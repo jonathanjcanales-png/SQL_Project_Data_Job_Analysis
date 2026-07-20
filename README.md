@@ -14,9 +14,9 @@ The specific questions I looked to answer were:
 # Tools I Used
 - **SQL:** The main tool I used in order to interact with the database, find patterns, identify possible insights, and answer questions through the use of queries.
 - **PostgresSQL:** The database management system I used to query and manipulate the tables containing job posting data.
-- **Github:** Tool used to share my SQL queries and analysis. Useful for version control and tracking
+- **Github:** Tool used to share my SQL queries and analysis. Useful for version control and tracking.
 # Analysis
-The queries completed for this project were meant to target specific subsections of the data analyst job market to be combined for analysis. Here is the approach I used to tackly each question:
+The queries completed for this project were meant to target specific subsections of the data analyst job market to be combined for analysis. Here is the approach I used to tackle each question:
 
 ### 1. Top Paying Data Analyst Jobs
 
