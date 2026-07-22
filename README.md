@@ -3,7 +3,7 @@ A peek into the market for Data Analysts! This project is an exploration of top 
 
 Check out the projects SQL queries here: [project sql folder](/project_sql/)
 # Background
-The reason I started this project was to try to better direct efforts in job searching for data anaysis roles. Targeting specific skills that are both in demand and fairly compensated will raise the effectiveness of any data analyst job search.
+The reason I started this project was to try to better direct efforts in job searching for data analysis roles. Targeting specific skills that are both in demand and fairly compensated will raise the effectiveness of any data analyst job search.
 The specific questions I looked to answer were:
 1. What are the top paying data analyst jobs?
 2. What are the skills required for these jobs?
@@ -13,7 +13,7 @@ The specific questions I looked to answer were:
 
 # Tools I Used
 - **SQL:** The main tool I used in order to interact with the database, find patterns, identify possible insights, and answer questions through the use of queries.
-- **PostgresSQL:** The database management system I used to query and manipulate the tables containing job posting data.
+- **PostgreSQL:** The database management system I used to query and manipulate the tables containing job posting data.
 - **Github:** Tool used to share my SQL queries and analysis. Useful for version control and tracking.
 # Analysis
 The queries completed for this project were meant to target specific subsections of the data analyst job market to be combined for analysis. Here is the approach I used to tackle each question:
@@ -189,7 +189,7 @@ From the analysis, several general insights emerged:
 2. **Skills for Top-Paying Jobs**: High-paying data analyst jobs require advanced proficiency in SQL, suggesting it’s a critical skill for earning a top salary.
 3. **Most In-Demand Skills**: SQL is also the most demanded skill in the data analyst job market, thus making it essential for job seekers.
 4. **Skills with Higher Salaries**: Specialized skills, such as kotlin and svn, are associated with the highest average salaries, indicating a premium on niche expertise.
-5. **Optimal Skills for Job Market Value**: SQL leads in demand and offers for a high average salary, positioning it as one of the most optimal skills for data analysts to learn to maximize their market value.
+5. **Optimal Skills for Job Market Value**: SQL leads in demand and offers for high average salaries, positioning it as one of the most optimal skills for data analysts to learn to maximize their market value.
 # What I Learned
 
 
